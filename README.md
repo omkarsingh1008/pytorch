@@ -1,5 +1,5 @@
 # pytorch
-pytorch networks and  transfer learning
+pytorch networks and  transfer learning.
 In this repo, we create a notebook that contains a simple CNN network, logistic regression, transfer learning.
 An all different saving technique of PyTorch.
 ## Local installation pytorch
